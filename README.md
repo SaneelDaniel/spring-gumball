@@ -38,3 +38,13 @@ The automation tools and the templates provided by github are also quite impress
 - All Github Workflows
 
 ![git-workflows](images/all_Actions.png)
+
+# CD Workflow Notes
+
+Unfortunately, I was unable to get the CD workflow to work.
+
+I tried changing a lot of the variables for the authentication section (assuming I got the keys wrong), but it was not working.
+
+Even after trying to get the keys to work, I was unable to get the CD workflow to work.
+
+Hope this could be considered as a GCP account bug.
