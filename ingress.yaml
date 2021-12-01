@@ -7,4 +7,3 @@ spec:
   backend:
     serviceName: "spring-gumball-service"
     servicePort: 8080
-
